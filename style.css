@@ -2,4 +2,16 @@ h1{
     color: blue;
     font-family: 'Courier New', Courier, monospace;
     font-size: 2rem;
+    text-align: center;
+}
+h2{ 
+    color: rgb(36, 35, 42);
+    text-align: center;
+    padding: 2rem;
+}
+.texto{
+
+text-align: center;
+margin: 1rem;
+
 }
